@@ -345,10 +345,6 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Groq** for providing the LLM API
@@ -360,9 +356,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue on GitHub
-- Email: support@quizai.com
-- Documentation: [Link to docs]
-
+  
 ---
 
 Built with ❤️ for the future of education
